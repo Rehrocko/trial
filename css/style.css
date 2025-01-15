@@ -459,6 +459,14 @@ button.btn:hover {
     right: 30px;
 }
 
+.top-news .wide-image {
+    width: 100%;
+    height: auto;
+    padding: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 .top-news .slick-prev:hover,
 .top-news .slick-prev:focus,
 .top-news .slick-next:hover,
