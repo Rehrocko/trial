@@ -381,6 +381,11 @@ button.btn:hover {
     position: relative;
     width: 100%;
     padding: 30px 0 0 0;
+    pointer-events: none
+}
+
+.top-news .container {
+    pointer-events: all;
 }
 
 .top-news .tn-img {
