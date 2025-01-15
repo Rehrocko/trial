@@ -388,6 +388,18 @@ button.btn:hover {
     pointer-events: all;
 }
 
+.top-news .pretrial-information {
+    z-index: 1;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-size: 16;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .top-news .tn-img {
     position: relative;
     overflow: hidden;

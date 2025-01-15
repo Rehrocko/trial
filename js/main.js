@@ -126,5 +126,5 @@
 })(jQuery);
 
 const pretrial=(e)=>{
-    document.location.href = "./pretrial/"
+    document.location.href = "./pretrial.html"
 }
