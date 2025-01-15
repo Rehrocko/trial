@@ -390,7 +390,7 @@ button.btn:hover {
 
 .top-news .pretrial-information {
     z-index: 1;
-    position: relative;
+    position: absolute;
     bottom: 50px;
     left: 10px;
     margin: 0px;
@@ -519,6 +519,7 @@ button.btn:hover {
 }
 
 .cat-news .col-md-6 {
+    width: 100%;
     margin-bottom: 30px;
 }
 
