@@ -125,3 +125,6 @@
     });
 })(jQuery);
 
+const pretrial=(e)=>{
+    document.location.href = "./pretrial/"
+}
