@@ -389,7 +389,7 @@ button.btn:hover {
 }
 
 .top-news .pretrial-information {
-    z-index: 1;
+    z-index: 10;
     position: absolute;
     bottom: 50px;
     left: 10px;
@@ -480,8 +480,10 @@ button.btn:hover {
     width: 100%;
     height: auto;
     padding: 2px;
+    position: absolute;
     padding-bottom: 20px;
     left: 0;
+    top: 0;
 }
 
 .top-news .slick-prev:hover,
@@ -519,7 +521,6 @@ button.btn:hover {
 }
 
 .cat-news .col-md-6 {
-    width: 100%;
     margin-bottom: 30px;
 }
 
@@ -611,7 +612,6 @@ button.btn:hover {
     content: "\f105";
 }
 
-
 /**********************************/
 /********** Tab News CSS **********/
 /**********************************/
@@ -620,6 +620,7 @@ button.btn:hover {
 }
 
 .tab-news .col-md-6 {
+    width: 100%;
     margin-bottom: 60px;
 }
 
