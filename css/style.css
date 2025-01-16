@@ -397,7 +397,7 @@ button.btn:hover {
     padding: 0px;
     color: white;
     font-size: 32px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .top-news .tn-img {
