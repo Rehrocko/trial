@@ -391,12 +391,12 @@ button.btn:hover {
 .top-news .pretrial-caption {
     z-index: 10;
     position: relative;
-    bottom: 80px;
+    bottom: 140px;
     left: 40px;
     margin: 0px;
     padding: 0px;
     color: white;
-    font-size: 32px;
+    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
 
