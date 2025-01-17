@@ -58,7 +58,7 @@
         autoplay: false,
         infinite: true,
         dots: false,
-        slidesToShow: 1,
+        slidesToShow: 2,
         slidesToScroll: 1,
         responsive: [
             {
