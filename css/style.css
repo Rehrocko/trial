@@ -381,11 +381,29 @@ button.btn:hover {
     position: relative;
     width: 100%;
     padding: 30px 0 0 0;
-    pointer-events: all
+    pointer-events: all;
 }
 
 .top-news .container {
     pointer-events: all;
+    cursor: pointer;
+}
+
+.top-news .container:hover .pretrial-caption{
+    animation: slideIn 2s forwards;
+}
+
+@keyframes slideIn {
+from {
+    margin-left: -100px;
+    width: 100%;
+    opacity: 0%;
+}
+to {
+    margin-left: 0px;
+    width: 100%;
+    opacity: 100%;
+}
 }
 
 .top-news .pretrial-caption {
