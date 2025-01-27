@@ -59,6 +59,7 @@
         infinite: true,
         dots: false,
         slidesToShow: 3,
+        draggable: false,
         slidesToScroll: 1,
         responsive: [
             {
