@@ -58,7 +58,7 @@
         autoplay: false,
         infinite: true,
         dots: false,
-        slidesToShow: 2,
+        slidesToShow: 3,
         slidesToScroll: 1,
         responsive: [
             {
@@ -127,4 +127,19 @@
 
 const pretrial=(e)=>{
     document.location.href = "./pretrial.html"
-}
+};
+
+const smith=()=>{ document.location.href = "smith.html" };
+const watt=()=>{ document.location.href = "watt.html" };
+const ark=()=>{ document.location.href = "ark.html" };
+const eco=()=>{ document.location.href = "eco.html" };
+const ford=()=>{ document.location.href = "ford.html" };
+const uni=()=>{ document.location.href = "uni.html" };
+const child=()=>{ document.location.href = "child.html" };
+const lud=()=>{ document.location.href = "lud.html" };
+const fac=()=>{ document.location.href = "fac.html" };
+const mill=()=>{ document.location.href = "mill.html" };
+const marx=()=>{ document.location.href = "marx.html" };
+const booth=()=>{ document.location.href = "booth.html" };
+const env=()=>{ document.location.href = "env.html" };
+const sam=()=>{ document.location.href = "sam.html" };

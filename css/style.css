@@ -394,16 +394,16 @@ button.btn:hover {
 }
 
 @keyframes slideIn {
-from {
-    margin-left: -100px;
-    width: 100%;
-    opacity: 0%;
-}
-to {
-    margin-left: 0px;
-    width: 100%;
-    opacity: 100%;
-}
+    from {
+        margin-left: -100px;
+        width: 100%;
+        opacity: 0%;
+    }
+    to {
+        margin-left: 0px;
+        width: 100%;
+        opacity: 100%;
+    }
 }
 
 .top-news .pretrial-caption {
@@ -536,11 +536,17 @@ to {
 .cat-news {
     position: relative;
     width: 100%;
+    height: 10%;
     padding: 0;
 }
 
 .cat-news .col-md-6 {
-    margin-bottom: 30px;
+    margin-bottom: 80px;
+}
+
+.cat-news .wide {
+    width: 100%;
+    height: 10%;
 }
 
 .cat-news h2 {
