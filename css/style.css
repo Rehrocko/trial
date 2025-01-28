@@ -544,6 +544,10 @@ button.btn:hover {
     margin-bottom: 80px;
 }
 
+.cat-news .no-image {
+    background-image: none !important;
+}
+
 .cat-news .wide {
     width: 100%;
     height: 10%;

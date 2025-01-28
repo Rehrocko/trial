@@ -144,3 +144,4 @@ const marx=()=>{ document.location.href = "marx.html" };
 const booth=()=>{ document.location.href = "booth.html" };
 const env=()=>{ document.location.href = "env.html" };
 const sam=()=>{ document.location.href = "sam.html" };
+const verdict=()=>{ document.location.href = "verdict.html" };
